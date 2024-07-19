@@ -109,4 +109,5 @@ If you're using an IDE like IntelliJ IDEA or Eclipse, you can add the JDBC drive
 
 ## Sample Screenshot of the application
 
+<img src="https://github.com/rahulpro1012/Healthcare_Management_System/blob/main/image.png"></img>
 
