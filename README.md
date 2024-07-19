@@ -93,6 +93,17 @@ CREATE TABLE Appointment (
     FOREIGN KEY (patient_id) REFERENCES Patient(patient_id),
     FOREIGN KEY (doctor_id) REFERENCES Doctor(doctor_id)
 );
+```
 
+## Download MySQL JDBC Driver
+Download the MySQL JDBC driver from the official MySQL website. You can download it here.
 
+## Java Application
+Ensure you have the Java Development Kit (JDK) installed. You can download it from here.
+
+Add the MySQL JDBC driver to your project's classpath:
+
+If you're using an IDE like IntelliJ IDEA or Eclipse, you can add the JDBC driver jar file to the project's libraries.
+For IntelliJ IDEA: Go to File -> Project Structure -> Libraries and add the JDBC driver jar file.
+For Eclipse: Right-click on the project -> Build Path -> Configure Build Path -> Add External JARs and select the JDBC driver jar file.
 
