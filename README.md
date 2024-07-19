@@ -107,3 +107,6 @@ If you're using an IDE like IntelliJ IDEA or Eclipse, you can add the JDBC drive
 <ul><li>For IntelliJ IDEA: Go to File -> Project Structure -> Libraries and add the JDBC driver jar file.</li>
 <li>For Eclipse: Right-click on the project -> Build Path -> Configure Build Path -> Add External JARs and select the JDBC driver jar file.</li></ul>
 
+## Sample Screenshot of the application
+
+
